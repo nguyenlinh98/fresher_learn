@@ -1,0 +1,10 @@
+
+H	php:S1481¼"+Remove this unused "$query" local variable.(ù€æ8ÜéØ½-
+|	php:S1488"_Immediately return this expression instead of assigning it to the temporary variable "$search".(š·–À8µ»Éæ½-
+K	php:S1481Æ")Remove this unused "$key" local variable.(ÄşØ¾úÿÿÿÿ8ï«êâ½-
+k	php:S1117µ"IRename "$query" which has the same name as the field declared at line 10.(Ë¾ƒÜûÿÿÿÿ8¸ËØ½-
+M	php:S1481µ"+Remove this unused "$query" local variable.(Ë¾ƒÜûÿÿÿÿ8¸ËØ½-
+e	php:S1192…"HDefine a constant instead of duplicating this literal "id desc" 3 times.(•¥Ïİ8µ»Éæ½-
+j	php:S1117w"IRename "$query" which has the same name as the field declared at line 10.(Â±âšıÿÿÿÿ8û½áæ½-
+Lphp:S121Š"0Add curly braces around the nested statement(s).(ç¸şÓ8µ»Éæ½-
+f	php:S1117¼"IRename "$query" which has the same name as the field declared at line 10.(ù€æ8ÜéØ½-
